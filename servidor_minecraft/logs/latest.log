@@ -1,50 +1,52 @@
-[00:27:07] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
-[00:27:08] [main/INFO]: Loading 4 mods:
+[19:05:33] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.3
+[19:05:33] [main/INFO]: Loading 4 mods:
 	- fabricloader 0.16.3
 	   \-- mixinextras 0.4.1
 	- java 17
 	- minecraft 1.20.1
-[00:27:08] [main/WARN]: Found 11 non-fabric mods:
+[19:05:33] [main/WARN]: Found 17 non-fabric mods:
 	- citadel-2.6.1-1.20.1.jar
 	- epicfight-forge-20.9.7-1.20.1.jar
-	- DungeonsArise-1.20.1-2.1.57-release.jar
+	- jet_and_elias_armors-1.4-1.20.1-CF.jar
 	- TerraBlender-forge-1.20.1-3.0.1.7.jar
-	- iceandfire-2.1.13-1.20.1-beta-5.jar
-	- [forge]wukong-1.20.1.40.jar
 	- BiomesOPlenty-forge-1.20.1-19.0.0.94.jar
-	- player-animation-lib-forge-1.0.2-rc1+1.20.jar
-	- GlitchCore-forge-1.20.1-0.0.1.1.jar
+	- DungeonsArise-1.20.1-2.1.57-release.jar
+	- crust-1.20.1-2.5.9.jar
+	- [forge]wukong-1.20.1.40.jar
 	- elder_weapons-1.0.3-forge-1.20.1.jar
+	- GlitchCore-forge-1.20.1-0.0.1.1.jar
+	- specialmobs-1.20.1-3.1.11.jar
+	- player-animation-lib-forge-1.0.2-rc1+1.20.jar
+	- CreativeCore_FORGE_v2.12.31_mc1.20.1.jar
+	- weaponmaster_ydm-forge-1.20.1-4.2.3.jar
+	- gdmef-1.1.5-forge-1.20.1.jar
+	- iceandfire-2.1.13-1.20.1-beta-5.jar
 	- alexsmobs-1.22.9.jar
-[00:27:08] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[00:27:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[00:27:14] [main/INFO]: Loaded 7 recipes
-[00:27:14] [main/INFO]: Loaded 1271 advancements
-[00:27:15] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[00:27:15] [Server thread/INFO]: Loading properties
-[00:27:15] [Server thread/INFO]: Default game type: SURVIVAL
-[00:27:15] [Server thread/INFO]: Generating keypair
-[00:27:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:27:15] [Server thread/INFO]: Using epoll channel type
-[00:27:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[00:27:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[00:27:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[00:27:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[00:27:15] [Server thread/INFO]: Preparing level "world"
-[00:27:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:27:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:27:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:27:22] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[00:27:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:27:22] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[00:27:22] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[00:27:22] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[00:27:23] [Worker-Main-1/INFO]: Preparing spawn area: 82%
-[00:27:23] [Server thread/INFO]: Time elapsed: 4700 ms
-[00:27:23] [Server thread/INFO]: Done (7.599s)! For help, type "help"
-[00:30:23] [Server thread/INFO]: ellzarasaa[/127.3.241.47:52321] logged in with entity id 392 at (-0.3538429696757738, 76.0, -7.6635344799970495)
-[00:30:23] [Server thread/INFO]: ellzarasaa joined the game
-[00:44:54] [Server thread/INFO]: ellzarasaa lost connection: Timed out
-[00:44:54] [Server thread/INFO]: ellzarasaa left the game
+[19:05:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/Server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:05:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:05:39] [main/INFO]: Loaded 7 recipes
+[19:05:40] [main/INFO]: Loaded 1271 advancements
+[19:05:40] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:05:40] [Server thread/INFO]: Loading properties
+[19:05:40] [Server thread/INFO]: Default game type: SURVIVAL
+[19:05:40] [Server thread/INFO]: Generating keypair
+[19:05:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:05:40] [Server thread/INFO]: Using epoll channel type
+[19:05:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:05:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:05:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:05:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:05:40] [Server thread/INFO]: Preparing level "world"
+[19:05:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:05:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:05:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:05:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:05:46] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:05:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:05:46] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:05:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:05:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:05:47] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:05:47] [Worker-Main-3/INFO]: Preparing spawn area: 62%
+[19:05:48] [Server thread/INFO]: Time elapsed: 4750 ms
+[19:05:48] [Server thread/INFO]: Done (7.395s)! For help, type "help"
