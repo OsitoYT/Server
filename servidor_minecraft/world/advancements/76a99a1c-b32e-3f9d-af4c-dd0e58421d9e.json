@@ -371,5 +371,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-03-04 00:53:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-03-04 00:51:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
